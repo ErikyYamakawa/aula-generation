@@ -3,7 +3,7 @@ package exercicios;
 import java.util.Scanner;
 
 public class ExercicioArray4 {
-	public static void main(String Args) {
+	public static void main(String Args[]) {
 		float[][] array1 = new float[2][2];
 		float[][] array2 = new float[2][2];
 		float[][] array3 = new float[2][2];
