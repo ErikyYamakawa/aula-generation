@@ -1,4 +1,4 @@
-package helloword;
+package exerciciopolimorfismo;
 
 public class Cachorro extends Animal {
 	public Cachorro()

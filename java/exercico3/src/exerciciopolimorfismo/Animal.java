@@ -1,4 +1,4 @@
-package helloword;
+package exerciciopolimorfismo ;
 
 public abstract class Animal {
 	private String tipo;

@@ -1,4 +1,4 @@
-package helloword;
+package exerciciopolimorfismo;
 
 public class Preguica extends Animal {
 	public Preguica()
