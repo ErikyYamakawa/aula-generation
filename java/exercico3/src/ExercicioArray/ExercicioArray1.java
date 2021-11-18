@@ -1,4 +1,4 @@
-package ExerciciosArray1;
+package ExercicioArray;
 
 public class ExercicioArray1 {
 	public static void main (String Args[]) {
